@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+## Milad Abrahamson
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Co-founder, CEO of Informotion Inc est '13, holding 11 tech companies under management; ranging from smart contracts and web3.0 to data mining and AI.
